@@ -5,18 +5,18 @@
 
 ### Petsstore site
 
-Please run bat script **run.bat** to get the results and new testing report generated
-Configuration file:
-- Petstore_Performance_Testing.jmx
-Results:
+Please run bat script **run.bat** to get the results and new testing report generated <br />
+Configuration file: <br />
+- Petstore_Performance_Testing.jmx <br />
+Results: <br />
 - result-petsstore.jtl
 - report/date folder content
 
 ### BlogEngine site
 
-Used bat script **runBlogEngine.bat** to get the last report using locally running BlogEngine site in IIS
-Configuration file:
-- BlogEngineTests.jmx
-Results:
+Used bat script **runBlogEngine.bat** to get the last report using locally running BlogEngine site in IIS <br />
+Configuration file: <br />
+- BlogEngineTests.jmx <br />
+Results: <br />
 - result-blogengine.jtl
 - report/BlogEngine/date folder content
